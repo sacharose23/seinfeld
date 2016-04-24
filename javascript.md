@@ -1,8 +1,8 @@
 # Java Script Basics  
 ## Treehouse  
 
-## 4/23/16: 1 hour of video & practice  
-### TOPICS:  
+### 4/23/16: 1 hour of video & practice  
+#### TOPICS:  
 - Javascript as versatile language (roles in web servers, websites, desktop apps, etc.)  
 - Importance of CodeMonkey Vocabulary (syntax, dialog box, etc.)  
 - Browsers Role in Code (debugging, console usages, javascript interpreter reads/runs/executes js file)  
