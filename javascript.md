@@ -1,7 +1,7 @@
 # _Java Script Basics_ with TeamTreehouse   
 
-_Introducing Javascript_**
-### 4/23/16: 1 hour  
+##**_Introducing Javascript_**
+**4/23/16: 1 hour**  
 **TOPICS** 
 - Javascript as versatile language (roles in web servers, websites, desktop apps, etc.)  
 - Importance of CodeMonkey Vocabulary (syntax, dialog box, etc.)  
@@ -15,8 +15,8 @@ _Introducing Javascript_**
 - _Camelcasing_ (eg. pricePerPound as a var name)    
   
 
-_Storing & Tracking Information with Variables_**
-### 5/2/16: 1 hour 
+##**_Storing & Tracking Information with Variables_**
+**5/2/16: 1 hour** 
 **TOPICS** 
 - \ backlash usage for ignoring quotes in a string
 - Utilizing spaces as a way to make your code easier to understand  
