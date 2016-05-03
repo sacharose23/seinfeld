@@ -16,8 +16,8 @@
   
 
 ##**_Storing & Tracking Information with Variables_**
-**5/2/16: 1 hour** 
-**TOPICS** 
+**5/2/16: 1 hour**  
+ **TOPICS** 
 - \ backlash usage for ignoring quotes in a string
 - Utilizing spaces as a way to make your code easier to understand  
 - Concatenation: adding strings together with + sign  
