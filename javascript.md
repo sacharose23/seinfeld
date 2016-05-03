@@ -1,9 +1,8 @@
-# Java Script Basics  
-## TeamTreehouse  
+# _Java Script Basics_ with TeamTreehouse   
 
-### 4/23/16: 1 hour of video & practice  
-### Introducing Javascript
-#### TOPICS:  
+_Introducing Javascript_**
+### 4/23/16: 1 hour  
+**TOPICS** 
 - Javascript as versatile language (roles in web servers, websites, desktop apps, etc.)  
 - Importance of CodeMonkey Vocabulary (syntax, dialog box, etc.)  
 - Browsers Role in Code (debugging, console usages, javascript interpreter reads/runs/executes js file)  
@@ -13,11 +12,12 @@
 - Analogy of variables as boxes  
 - Assigning values to variables  
 - js list of reserved words  
-- _Camelcasing_ (eg. pricePerPound as a var name)  
+- _Camelcasing_ (eg. pricePerPound as a var name)    
   
-### 5/2/16: 1 hour of video & practice
-### Storing & Tracking Information with Variables
-#### TOPICS:  
+
+_Storing & Tracking Information with Variables_**
+### 5/2/16: 1 hour 
+**TOPICS** 
 - \ backlash usage for ignoring quotes in a string
 - Utilizing spaces as a way to make your code easier to understand  
 - Concatenation: adding strings together with + sign  
