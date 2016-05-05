@@ -26,3 +26,39 @@
 - MDN: Mozilla Developer Network --> great documentation resource for javascript   
 - Objects (nouns), Properties (adjectives), & Methods (functions/actions) 
 - methods()  <-- ()  indication of command/method 
+
+##**_Working with Numbers_**
+**5/4/16: 1 hour**  
+ **TOPICS**  
+ - floating numbers, integers, scientific notation
+ - operators  
+ - Mathematical Shorthands += , -= , *= , /=  
+ - parseInt(varName) --> used to convert strings to integers  
+ - parseFloat
+ - Use console to type js & preview your work immediately  
+ - CountDown project...Duplication/Dry Programming  
+ - JS is made up of many Objects  
+ - The Math Object (has properties & methods) -> example: Math.round(x)....PI...Math.random()...  
+ - Math.random() --> generates a floating number from 0 (inclusive) to 1 (exclusive)  
+ - Math.floor() --> rounds the number up...Math.ceil() rounds up.  
+ - Math.floor( Math.random() * 6 ) + 1 ---> to get a random number from 1 to 6 (like rolling a die)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
