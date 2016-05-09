@@ -41,8 +41,27 @@
  - The Math Object (has properties & methods) -> example: Math.round(x)....PI...Math.random()...  
  - Math.random() --> generates a floating number from 0 (inclusive) to 1 (exclusive)  
  - Math.floor() --> rounds the number up...Math.ceil() rounds up.  
- - Math.floor( Math.random() * 6 ) + 1 ---> to get a random number from 1 to 6 (like rolling a die)  
+ - Math.floor( Math.random() * 6 ) + 1 ---> to get a random number from 1 to 6 (like rolling a die)    
 
+
+##**_Introducing Conditional Statements_**
+**5/8/16: 30 min**  
+**TOPICS**   
+- Decision-making                              
+- if (condition ) { then statement } -- No semicolon after the conditional statement.  
+- === triple equal operator
+- right after "if" clause, you can insert an "else" clause  
+- if ( ) {
+	
+} else {
+	
+}  
+- Other comparison operators 
+- Example ('apple' < 'bear') is TRUE because alphabetically, 'apple' comes before 'bear'  
+= Example ('3'==3) is TRUE b/c interpreter converts the string into a number and compares HOWEVER stricter the equal operator...
+('3'=== 3) is FALSE since a string does not equal a number.  
+- Javascript is case-sensitive  
+- Better to use !== (strict NOT equal operator)
 
 
 
